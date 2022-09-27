@@ -1,0 +1,1 @@
+The apple website navbar aniamtion is one of the best. I was inspired to make my own and I learn a lot about transitions and how to add overlay
